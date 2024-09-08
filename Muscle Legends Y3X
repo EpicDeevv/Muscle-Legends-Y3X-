@@ -47,9 +47,9 @@ Tab:AddSlider({
 
 Tab:AddSlider({
     Name = "Hip height",
-    Min = -1.40,
+    Min = 5,
     Max = 100,
-    Default = -1.40,
+    Default = 5,
     Color = Color3.fromRGB(128, 128, 128),
     Increment = 1,
     ValueName = "Hip Height",
